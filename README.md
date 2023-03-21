@@ -11,11 +11,11 @@ It performs the arithmetic operation on the two numbers and displays the result 
 It prompts the user if they want to store the result in memory and if the result is a single digit, it asks the user if they want to store it again.
 It prompts the user if they want to continue calculating or exit the program.
 ## Functions
-##    is_one_digit(v)
-      Checks if a number is an integer and has only one digit.
+## is_one_digit(v)
+   Checks if a number is an integer and has only one digit.
 
-##    check(v1, v2, v3)
-      Given three values, creates a message that will be displayed to the user based on specific conditions.
+## check(v1, v2, v3)
+   Given three values, creates a message that will be displayed to the user based on specific conditions.
 
 ## Main Loop
 The main loop of the program that prompts the user for input, performs calculations, and displays output.
