@@ -1,5 +1,5 @@
 # Truthful-Calculator
-## Calculator
+## Description
 This is a simple command-line calculator program written in Python. It can perform basic arithmetic operations like addition, subtraction, multiplication, and division on two numbers provided by the user. It also has the ability to store the result in memory and prompt the user if they want to continue calculating or exit the program.
 
 ## How it works
